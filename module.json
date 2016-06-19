@@ -1,0 +1,11 @@
+{
+  "name": "mymodule",
+  "version": "1.0.0",
+  "description": "My first module",
+  "keywords": [
+    "module"
+  ],
+  "author": "Borting Chen",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
