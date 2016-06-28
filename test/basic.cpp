@@ -1,7 +1,7 @@
 #include "mbed-drivers/mbed.h"
 #include "mymodule/module.h"
 
-void app_start(int argc, char** argv) {
+void app_start(int argc, char* argv[]) {
   myModulePrint("Hello World");
 
   return;
